@@ -1,5 +1,0 @@
-streamlit
-requests
-Pandas
-Pillow (used to rotate some pictures)
-
